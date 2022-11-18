@@ -56,5 +56,5 @@ cont inquirer = require('inquirer');
 ## 🔗 Links
 
 - [Link to demo video](https://drive.google.com/file/d/1ZZhjt0zkLy7qwJ4pGfiQqdpN-bMLzvCB/view)
-- [Link to Github Repo]()
+- [Link to Github Repo](https://github.com/Hugooloya/Team-Profile-Generator)
 
